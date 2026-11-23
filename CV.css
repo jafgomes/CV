@@ -1,0 +1,17 @@
+body {
+    background-color: green;
+}
+fieldset {
+    background-color: yellow;
+}
+h2 {
+    color: blue;
+}
+h1 {
+    font-size: 36px;
+    color: white;
+}
+.lema {
+    font-size: 26px;
+    color: white;
+}
